@@ -15,12 +15,13 @@ $ npm install dotenv //let's you use a .env file to hide your token when githubb
 $ npm install @discordjs/builders @discordjs/rest discord-api-types
 
 ***when they ask for clientId, its your botsId, not your user***
+
 ***guild id is your server'sid***
 
 
 
 
-$ npm install @discordjs/rest discord-api-types
+ 
 
 
 
