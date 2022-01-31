@@ -15,6 +15,11 @@ $ npm install discord.js
 $ npm install @discordjs/builders @discordjs/rest discord-api-types
 
 ***when they ask for clientId, its your botsId, not your user***
+<<<<<<< HEAD
+=======
+
+***guild id is your server'sid***
+>>>>>>> 1c7a45021f9787abbeba098baa19f944b2559454
 
 ***guild id is your server'sid***
 
